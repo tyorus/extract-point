@@ -1,0 +1,13 @@
+*pyc
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.docx
+*.doc
+*.xls
+*.xlsx
+*.pptx
+*.ppt
