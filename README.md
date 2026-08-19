@@ -1,7 +1,7 @@
 # extract-point
 ### Stop Crashing Your Laptop — Extract ERA5 Point Data in Under 10 Seconds
 
-**Part of [Nusawave Labs](https://nusawave-labs.github.io)**
+**Part of [Monsun Labs](https://monsun-labs.github.io)**
 
 ## Quick Start
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab-link)
@@ -23,4 +23,4 @@ Pre-sliced sample included in repo for instant use.
 ## License
 MIT — use freely, attribution appreciated.
 
-© Nusawave Labs 2026
+© Monsun Labs 2026
